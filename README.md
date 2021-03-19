@@ -35,7 +35,7 @@ I used a relational database called Postgresql as the final production database 
 
 The data was loaded successfully in these tables. 
 
-![]()
+![](https://github.com/poonam-ux/ETL_Project/blob/main/Images/newyork_housing_table.png)
 
 ![]()
 
