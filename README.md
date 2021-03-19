@@ -43,6 +43,10 @@ The data was loaded successfully in these tables.
 
 ![](https://github.com/poonam-ux/ETL_Project/blob/main/Images/austin_housting_table.png)
 
+* Yelp users table - 
+
+![](https://github.com/poonam-ux/ETL_Project/blob/main/Images/yelp_users_table.png)
+
 * Top Yelp users by review counts - 
 
 ![](https://github.com/poonam-ux/ETL_Project/blob/main/Images/top_yelp_users_by_review_count.png)
