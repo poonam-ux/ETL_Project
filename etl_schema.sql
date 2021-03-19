@@ -21,5 +21,12 @@ CREATE TABLE yelp_users (
 );
 
 SELECT * FROM newyork_housing
+
 SELECT * FROM austin_housing
+
 SELECT * FROM yelp_users
+
+SELECT user_name, SUM(review_count) AS "Review_Count" 
+FROM yelp_users 
+GROUP BY user_name, review_count 
+ORDER BY review_count DESC
