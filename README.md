@@ -14,7 +14,13 @@ The database is built on by combining desired data from three main data sources.
 These include -
 
 * CSV formats of New York housing dataset and Austin housing dataset – Sourced from Kaggle. 
+
+### https://www.kaggle.com/ericpierce/new-york-housing-zillow-api
+### https://www.kaggle.com/ericpierce/austinhousingprices?select=cleandata.csv
+
 * The JSON format for Yelp users’ data - Sourced from Kaggle.
+
+### https://www.kaggle.com/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_user.json 
 
 ## 2. Data Transformation (Data Cleanup and Analysis)
 
