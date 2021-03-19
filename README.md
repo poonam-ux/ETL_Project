@@ -14,7 +14,13 @@ The database is built on by combining desired data from three main data sources.
 These include -
 
 * CSV formats of New York housing dataset and Austin housing dataset – Sourced from Kaggle. 
+
+### https://www.kaggle.com/ericpierce/new-york-housing-zillow-api
+### https://www.kaggle.com/ericpierce/austinhousingprices?select=cleandata.csv
+
 * The JSON format for Yelp users’ data - Sourced from Kaggle.
+
+### https://www.kaggle.com/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_user.json 
 
 ## 2. Data Transformation (Data Cleanup and Analysis)
 
@@ -35,9 +41,19 @@ I used a relational database called Postgresql as the final production database 
 
 The data was loaded successfully in these tables. 
 
-![]()
+* New York housing table - 
 
-![]()
+![](https://github.com/poonam-ux/ETL_Project/blob/main/Images/newyork_housing_table.png)
 
-![]()
+* Austin housing table - 
+
+![](https://github.com/poonam-ux/ETL_Project/blob/main/Images/austin_housting_table.png)
+
+* Yelp users table - 
+
+![](https://github.com/poonam-ux/ETL_Project/blob/main/Images/yelp_users_table.png)
+
+* Top Yelp users by review counts - 
+
+![](https://github.com/poonam-ux/ETL_Project/blob/main/Images/top_yelp_users_by_review_count.png)
 
