@@ -41,7 +41,7 @@ The data was loaded successfully in these tables.
 
 * Austin housing table - 
 
-![]()
+![](https://github.com/poonam-ux/ETL_Project/blob/main/Images/austin_housting_table.png)
 
 ![]()
 
