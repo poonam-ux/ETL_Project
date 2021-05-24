@@ -1,10 +1,22 @@
 # ETL Project
 
-## Comparing housing prices in New York and Austin
+This project is designed to conduct extraction, transformations, and loading of two sets of data, namely housing data, and Yelp review data.
 
-This project is designed to conduct extraction, transformations, and loading the housing data for two major cities in the US, New York and Austin. It also loads the Yelp users’ data (over 2 million datapoints) into the database.
+The purpose of this project was to migrate the data to a production database. The project stores, transforms, and loads both the datasets successfully into the database.
 
-The purpose of this project was to migrate the data to a production database. This database compares the housing prices in New York and Austin. The project also stores, transforms, and loads a large dataset (Yelp users’ data) successfully into the database.
+This project includes two parts:
+
+1. ETL on housing data of 2 US cities, New York and Austin to answer some of the questions such as- 
+    * which city has higher housing price for given number of bedrooms
+    * which city has more number of listings
+    * the mean and median housing prices in both cities
+    * the maximum and minimum house price for similar homes in these 2 cities, etc.
+
+2. ETL on 2 million+ Yelp user reviews to answer some of the questions such as - 
+    * who are the top 20 users based on the review count
+    * who are the first 50 Yelp users, etc.
+
+
 
 This project includes three parts:
 
