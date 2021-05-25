@@ -87,4 +87,6 @@ The data was loaded successfully in these tables.
 
 ![](https://github.com/poonam-ux/ETL_Project/blob/main/Images/top_yelp_users_by_review_count.png)
 
+* First 50 Yelp users
 
+![](https://github.com/poonam-ux/ETL_Project/blob/main/Images/first50_yelp_users.png)
