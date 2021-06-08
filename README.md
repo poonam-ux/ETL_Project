@@ -79,14 +79,14 @@ The data was loaded successfully in these tables.
 
 ## Analysis:
 
-* Comparision of housing prices in New York and Austin - 
+### Comparision of housing prices in New York and Austin - 
 
 ![](https://github.com/poonam-ux/ETL_Project/blob/main/ETL_Housing_data/Images/new_york_vs_austin_housing_prices.png)
 
-* Top Yelp users by review counts - 
+### Top Yelp users by review counts - 
 
 ![](https://github.com/poonam-ux/ETL_Project/blob/main/Images/top_yelp_users_by_review_count.png)
 
-* First 50 Yelp users
+### First 50 Yelp users
 
 ![](https://github.com/poonam-ux/ETL_Project/blob/main/Images/first50_yelp_users.png)
